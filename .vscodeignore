@@ -1,0 +1,9 @@
+src/**
+test/**
+examples/**
+node_modules/**
+.github/**
+.gitignore
+.gitattributes
+*.vsix
+package-lock.json
